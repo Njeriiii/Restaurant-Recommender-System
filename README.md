@@ -61,3 +61,19 @@ The methodology has been successfully applied to:
 - Restaurant recommendations for individuals
 - Group dining suggestions
 - Professional networking (InternLink project)
+
+## Tutorials
+Mwenjwa, N. (2025). Content-Based Restaurant Recommendation System. [[Technical report](https://medium.com/@joymwenjwa/content-based-restaurant-recommendation-system-7a7cad24d979)].
+
+Mwenjwa, N. (2025). Collaborative Filtering Restaurant Recommendation System. [[Technical report](https://medium.com/@joymwenjwa/collaborative-filtering-restaurant-recommendation-system-cb333aecd7e4)].
+
+## Sources
+Bhattacharyya, M. (2022, December 7). Metrics of Recommender Systems. *Towards Data Science*. https://towardsdatascience.com/metrics-of-recommender-systems-cde64042127a
+
+Javed, M. (2020, November 4). Using Cosine Similarity to Build a Movie Recommendation System. *Towards Data Science*. https://towardsdatascience.com/using-cosine-similarity-to-build-a-movie-recommendation-system-ae7f20842599
+
+Vatsal. (2021, November 3). Recommendation Systems Explained. *Towards Data Science*. https://towardsdatascience.com/recommendation-systems-explained-a42fc60591ed
+
+Wikipedia Contributors. (2019a, March 3). Cosine similarity. *Wikipedia*. https://en.wikipedia.org/wiki/Cosine_similarity
+
+Wikipedia Contributors. (2019b, September 7). Spearman's rank correlation coefficient. *Wikipedia*. https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient
